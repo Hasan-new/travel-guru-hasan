@@ -28,4 +28,8 @@ const FakeHotel = [
         "HotelImg":`${img2}`,
     },
 ];
+
+
+
+
 export default FakeHotel;
